@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "express": "^4",
+    "jade": "^1",
+    "rss-parser": "^2.2.4"
+  }
+}
